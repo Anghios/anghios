@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Anghios
+# 👋 ¡Hola! Soy Néstor
 
 [![GitHub followers](https://img.shields.io/github/followers/anghios?label=Follow&style=social)](https://github.com/anghios)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/néstor-gonzález-medina-63b245207/)
@@ -61,30 +61,12 @@ Desarrollador apasionado por crear soluciones innovadoras y escribir código lim
 
 </div>
 
-## 🌟 Proyectos Destacados
-
-<div align="center">
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anghios&repo=proyecto1&theme=radical)](https://github.com/anghios/proyecto1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anghios&repo=proyecto2&theme=radical)](https://github.com/anghios/proyecto2)
-
-</div>
-
 ## 📈 Contribuciones
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anghios&theme=react-dark)
 
-## 🎯 Objetivos 2025
-
-- 🔭 Actualmente trabajando en proyectos de código abierto
-- 🌱 Aprendiendo sobre IA y Machine Learning
-- 👯 Buscando colaborar en proyectos innovadores
-- 💬 Pregúntame sobre desarrollo web full-stack
-- ⚡ Dato curioso: Me encanta el café y programar de noche
-
 ## 📫 Contacto
 
-- 📧 Email: [anghios@icloud.com](mailto:anghios@icloud.com)
 - 💼 LinkedIn: [Néstor González Medina](https://www.linkedin.com/in/néstor-gonzález-medina-63b245207/)
 - 🌐 Portfolio: [cv.anghios.es](https://cv.anghios.es/)
 
