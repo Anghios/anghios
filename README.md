@@ -59,7 +59,7 @@ Passionate developer focused on creating innovative solutions and writing clean,
 - 🌐 Portfolio: [cv.anghios.es](https://cv.anghios.es/)
 
 ---
-
+</div>
 <div align="center">
   
 ### 💝 Thanks for visiting my profile
