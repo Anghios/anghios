@@ -45,9 +45,7 @@ Passionate developer focused on creating innovative solutions and writing clean,
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anghios&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anghios&layout=compact&theme=radical)
+![Anghios's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anghios&theme=vue-dark&hide_border=true)
 
 
 
