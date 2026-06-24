@@ -2,8 +2,10 @@
 [![GitHub followers](https://img.shields.io/github/followers/anghios?label=Follow&style=social)](https://github.com/anghios)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/néstor-gonzález-medina-63b245207/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat&logo=google-chrome)](https://cv.anghios.es/)
+
 ## 🚀 About Me
 Passionate developer focused on creating innovative solutions and writing clean, efficient code. I love learning new technologies and sharing knowledge with the community.
+
 ## 💻 Tech Stack
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -31,20 +33,31 @@ Passionate developer focused on creating innovative solutions and writing clean,
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 ## 📊 GitHub Stats
 <div align="center">
+
 ![Anghios's Stats](https://github-readme-stats.vercel.app/api?username=Anghios&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![Anghios's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anghios&theme=vue-dark&hide_border=true)
 ![Anghios's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anghios&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 </div>
+
 ## 📈 Contributions
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anghios&theme=react-dark)
+
 ## 📫 Contact
 - 💼 LinkedIn: [Néstor González Medina](https://www.linkedin.com/in/néstor-gonzález-medina-63b245207/)
 - 🌐 Portfolio: [cv.anghios.es](https://cv.anghios.es/)
+
 ---
+
 <div align="center">
+
 ### 💝 Thanks for visiting my profile
+
 ![](https://komarev.com/ghpvc/?username=anghios&color=blueviolet&style=flat-square)
+
 ⭐ If you like my work, don't forget to give a star to my repositories
+
 </div>
